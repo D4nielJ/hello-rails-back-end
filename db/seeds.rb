@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+(1..20).each do |_e|
+  Greeting.create!(phrase: Faker::Books::Lovecraft.sentence)
+end
