@@ -2,6 +2,11 @@
 
 # Random greetings API
 
+> This is a Rails API that serves random phrases.
+
+### Front-end of this application
+[Visit Here](https://github.com/D4nielJ/hello-react-front-end)
+
 ## Built With
 
 - Ruby
