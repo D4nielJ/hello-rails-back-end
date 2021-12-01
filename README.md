@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Random greetings API
+# R4ndom greetings API
 
 > This is a Rails API that serves random phrases.
 
